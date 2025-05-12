@@ -36,11 +36,10 @@ data/top/insurance
 
 4.Using these dataframes , few findings have been provided for business case studies, which are as follows:
         
-        i.Decoding Transaction Dynamics on PhonePe,
-        ii. Transaction Analysis for Market Expansion,
-        iii. Insurance Engagement Analysis,
-        iv. Transaction Analysis Across States and Districts,
-        v. User Registration Analysis,
-        vi. Insurance Transactions Analysis.
+        "i. Decoding Transaction Dynamics on PhonePe",
+        "ii. Transaction Analysis for Market Expansion",
+        "iii. Insurance Engagement Analysis",
+        "iv. Transaction Analysis Across States and Districts",
+        "v. Insurance Transactions Analysis
 
-5.A map has been visualised using the User Registration Analysis case study where it shows the total registrations in each state
+5. different bar graphs like bar_chart,pie_chart, scatter_plot, choropleth maps have been visualised using the given data according to business case studies.
